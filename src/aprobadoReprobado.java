@@ -8,7 +8,9 @@ public class aprobadoReprobado {
 
         if (nota >= 60) {
             System.out.println("Aprobado.");
-        } 
+        } else {
+            System.out.println("Reprobado.");
+        }
     }
 }
 
